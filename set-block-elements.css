@@ -1,0 +1,12 @@
+* {
+    background-color: gainsboro;
+    font-family: monospace;
+}
+
+h3 {
+    display: inline-block;
+    width: 48%;
+    background-color: aquamarine;
+    text-align: center;
+    padding: 10px 0;
+  }
